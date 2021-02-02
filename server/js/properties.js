@@ -8,7 +8,7 @@ var Properties = {
             burger: 10,
             firepotion: 5
         },
-        hp: 25,
+        hp: 1,
         armor: 1,
         weapon: 1
     },
@@ -20,7 +20,7 @@ var Properties = {
             axe: 20,
             firepotion: 5
         },
-        hp: 110,
+        hp: 1,
         armor: 2,
         weapon: 2
     },
@@ -32,7 +32,7 @@ var Properties = {
             axe: 10,
             firepotion: 5
         },
-        hp: 90,
+        hp: 1,
         armor: 2,
         weapon: 1
     },
@@ -45,7 +45,7 @@ var Properties = {
             morningstar: 20,
             firepotion: 5
         },
-        hp: 200,
+        hp: 1,
         armor: 3,
         weapon: 2
     },
@@ -57,7 +57,7 @@ var Properties = {
             redsword: 30,
             firepotion: 5
         },
-        hp: 250,
+        hp: 1,
         armor: 2,
         weapon: 4
     },
@@ -67,7 +67,7 @@ var Properties = {
             burger: 95,
             firepotion: 5
         },
-        hp: 250,
+        hp: 1,
         armor: 3,
         weapon: 3
     },
@@ -79,7 +79,7 @@ var Properties = {
             leatherarmor: 10,
             firepotion: 5
         },
-        hp: 60,
+        hp: 1,
         armor: 2,
         weapon: 1
     },
@@ -91,7 +91,7 @@ var Properties = {
             morningstar: 10,
             firepotion: 5
         },
-        hp: 150,
+        hp: 1,
         armor: 3,
         weapon: 2
     },
@@ -103,7 +103,7 @@ var Properties = {
             bluesword: 15,
             firepotion: 5
         },
-        hp: 200,
+        hp: 1,
         armor: 3,
         weapon: 3
     },
@@ -115,7 +115,7 @@ var Properties = {
             redsword: 10,
             firepotion: 5
         },
-        hp: 200,
+        hp: 1,
         armor: 3,
         weapon: 3
     },
@@ -126,7 +126,7 @@ var Properties = {
             axe: 10,
             firepotion: 5
         },
-        hp: 80,
+        hp: 1,
         armor: 2,
         weapon: 1
     },
@@ -137,7 +137,7 @@ var Properties = {
             platearmor: 20,
             firepotion: 5
         },
-        hp: 100,
+        hp: 1,
         armor: 2,
         weapon: 6
     },
@@ -146,7 +146,7 @@ var Properties = {
         drops: {
             goldensword: 100
         },
-        hp: 700,
+        hp: 100,
         armor: 6,
         weapon: 7
     }
